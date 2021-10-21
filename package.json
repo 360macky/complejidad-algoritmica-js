@@ -1,0 +1,18 @@
+{
+  "name": "complejidad-algoritmica-js",
+  "version": "1.0.0",
+  "description": "Repositorio del Curso de Complejidad Algorítmica con JavaScript (Platzi)",
+  "main": ".",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "platzi",
+    "algorithms",
+    "escuela-desarrollo-web"
+  ],
+  "author": "Marcelo Arias",
+  "license": "ISC",
+  "homepage": "https://platzi.com/cursos/complejidad-js"
+}
