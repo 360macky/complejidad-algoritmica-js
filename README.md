@@ -8,9 +8,9 @@ En cualquiera de las dos formas practicarás tus conocimientos en análisis de a
 
 ## 📚 Algoritmos
 
-| Algoritmo                                                                                                                                                    | Complejidad Espacial | Complejidad Temporal |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- | -------------------- |
-| Bubble sort (Ordenamiento por burbuja)                                                                                                                       | O(1)                 | O(n^2)               |
-| Linear Search (Búsqueda lineal)                                                                                                                              | O(1)                 | O(n)                 |
-| Selection sort (Ordenamiento por selección)                                                                                                                  | O(1)                 | O(n^2)               |
-| ¡Hey! Haz un [Pull Request](https://platzi.com/clases/1557-git-github/19957-utilizando-pull-requests-en-github/), y añade el siguiente algoritmo por aquí 💚 |
+| Algoritmo                                                                                                                             | Complejidad Espacial | Complejidad Temporal |
+| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------- |
+| Bubble sort (Ordenamiento por burbuja)                                                                                                | O(1)                 | O(n^2)               |
+| Linear Search (Búsqueda lineal)                                                                                                       | O(1)                 | O(n)                 |
+| Selection sort (Ordenamiento por selección)                                                                                           | O(1)                 | O(n^2)               |
+| ¡Hey! Haz un [Pull Request](https://github.com/360macky/complejidad-algoritmica-js/pulls), y añade el siguiente algoritmo por aquí 💚 |
