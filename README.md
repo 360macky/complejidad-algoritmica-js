@@ -15,4 +15,5 @@ En cualquiera de las dos formas practicarás tus conocimientos en análisis de a
 | Selection sort (Ordenamiento por selección)                                                                                           | O(1)                 | O(n^2)               |
 | Secuencia Fibonacci                                                                                                                   |                      |                      |
 | Número Factorial                                                                                                                      |                      |                      |
+| Test de primalidad                                                                                                                    |                      |                      |
 | ¡Hey! Haz un [Pull Request](https://github.com/360macky/complejidad-algoritmica-js/pulls), y añade el siguiente algoritmo por aquí 💚 |
