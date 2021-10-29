@@ -13,4 +13,6 @@ En cualquiera de las dos formas practicarás tus conocimientos en análisis de a
 | Bubble sort (Ordenamiento por burbuja)                                                                                                | O(1)                 | O(n^2)               |
 | Linear Search (Búsqueda lineal)                                                                                                       | O(1)                 | O(n)                 |
 | Selection sort (Ordenamiento por selección)                                                                                           | O(1)                 | O(n^2)               |
+| Secuencia Fibonacci                                                                                                                   |                      |                      |
+| Número Factorial                                                                                                                      |                      |                      |
 | ¡Hey! Haz un [Pull Request](https://github.com/360macky/complejidad-algoritmica-js/pulls), y añade el siguiente algoritmo por aquí 💚 |
