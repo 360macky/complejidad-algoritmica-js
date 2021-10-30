@@ -17,3 +17,33 @@ En cualquiera de las dos formas practicarás tus conocimientos en análisis de a
 | Número Factorial                                                                                                                      |                      |                      |
 | Test de primalidad                                                                                                                    |                      |                      |
 | ¡Hey! Haz un [Pull Request](https://github.com/360macky/complejidad-algoritmica-js/pulls), y añade el siguiente algoritmo por aquí 💚 |
+
+## ✅ ¿Cómo agregar o calcular la complejidad de un nuevo algoritmo?
+
+### 👤 En tu propio repositorio
+
+Puedes usar este repositorio como base. Para ello puedes empezar clonando la rama `13-evaluacion-de-algoritmos`.
+
+```bash
+git clone -b 13-evaluacion-de-algoritmos --single-branch https://github.com/360macky/complejidad-algoritmica-js.git
+```
+
+### 👥 En este repositorio
+
+¡Genial! Empieza [realizando un fork a este repositorio](https://platzi.com/clases/1557-git-github/19978-creando-un-fork-contribuyendo-a-un-repositorio/).
+
+Luego, crea una nueva rama como `add/<NombreDelAlgoritmo>`
+
+Agrega tu algoritmo dentro de la carpeta `/algorithms`. O encuentra uno que esté libre, calcula y edítalo. 😊.
+
+Seguimos este esquema en el [curso](https://platzi.com/complejidad):
+
+```js
+/**
+ * Complejidad Temporal -> O(  )
+ * Complejidad Espacial -> O(  )
+ * Espacio Auxiliar -> O(  )
+ */
+```
+
+Finalmente, haz el commit y crea tu Pull Request. Lo estaré esperando. 🚀
