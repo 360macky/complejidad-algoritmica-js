@@ -16,6 +16,7 @@ En cualquiera de las dos formas practicarás tus conocimientos en análisis de a
 | Secuencia Fibonacci                                                                                                                   |                      |                      |
 | Número Factorial                                                                                                                      |                      |                      |
 | Test de primalidad                                                                                                                    |                      |                      |
+| Verificar potencia de 2                                                                                                               |                      |                      |
 | ¡Hey! Haz un [Pull Request](https://github.com/360macky/complejidad-algoritmica-js/pulls), y añade el siguiente algoritmo por aquí 💚 |
 
 ## ✅ ¿Cómo agregar o calcular la complejidad de un nuevo algoritmo?
